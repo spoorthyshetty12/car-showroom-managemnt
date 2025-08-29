@@ -1,34 +1,39 @@
-Free Download Source Code "Car Showroom Management System"
+# Car Showroom Management System
 
-FIRST Download
+**Car Showroom Management System** is a web-based application that allows management of car inventory, customer information, and sales tracking. Built with PHP, MySQL, and HTML/CSS, this project demonstrates database management, backend logic, and user authentication — ideal for showcasing web development and full-stack skills.
 
-1.XAMPP
+![PHP](https://img.shields.io/badge/PHP-v7.4-blue)
+![MySQL](https://img.shields.io/badge/MySQL-v5.7-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+## Features
+- Manage car inventory (add, update, delete cars)
+- Customer registration and management
+- Sales tracking and reporting
+- Admin and user authentication
 
-3"used_car_showroom"
+## Technologies Used
+- PHP
+- MySQL
+- HTML, CSS, JavaScript
 
-4. Download the zip file/ download winrar
+## Project Structure
+used_car_showroom/
+├── assets/ # CSS, JS, Images
+├── includes/ # PHP helper files
+├── index.php # Main entry point
+├── login.php # Login page
+├── register.php # Registration page
+└── README.md # Project documentation
 
-5. Extract the file and copy "used_car_showroom" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+## Login Details
+- **Admin**  
+  - Username: `admin`  
+  - Password: `admin123`
+- Users can create their own accounts via the registration page.
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+## Notes
+- Designed for local server environments like XAMPP or similar.
+- Demonstrates CRUD operations and user authentication in a web application.
 
-8. Create a database with name used_car_showroom_db.SQL
-
-6. Import used_car_showroom_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/used_car_showroom
-
-**LOGIN DETAILS** 
-
-Admin
-user: admin
-pass: admin123	
-
-create your own user
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
